@@ -27,7 +27,6 @@ body {
   flex-direction: column;
   gap: var(--space-md);
   padding: var(--space-sm) var(--space-sm) var(--space-lg);
-  height: 499px;
   width: 320px;
   border-radius: 1.25rem;
   background-color: var(--white);
