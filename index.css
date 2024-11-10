@@ -12,9 +12,13 @@ body {
   background-color: var(--slate-300);
   font-family: 'Outfit', sans-serif;
   text-align: center;
+}
+
+.card__container {
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 100vh;
 }
 
 .card {
